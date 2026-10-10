@@ -8,13 +8,16 @@
 
 ## 📋 Field-by-Field Quick Copy Guide
 
-### 1. Project Name / Title
+### 1. Project Name / Title (Max 60 characters — Devpost requirement)
 ```text
-GitLab Sentinel: 24/7 Multi-Agent Post-Code CI/CD & Autonomous Backend Healer
+GitLab Sentinel: 24/7 Self-Healing CI/CD
 ```
-*(Alternative punchy options if you prefer:)*
-* `DuoSentinel: 24/7 Multi-Agent Autonomous CI/CD & Pipeline Healing Engine`
-* `Life After Code: 24/7 Multi-Agent Post-Code Triage & Self-Healing CI/CD`
+*(Exact length: 41 characters — well within the 60-character limit)*
+
+**Alternative options (all <= 60 characters):**
+- `GitLab Sentinel: 24/7 Multi-Agent CI/CD` (39 characters)
+- `GitLab Sentinel: Autonomous Self-Healing CI/CD` (46 characters)
+- `DuoSentinel: 24/7 Autonomous CI/CD Engine` (40 characters)
 
 ---
 

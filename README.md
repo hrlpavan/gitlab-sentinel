@@ -1,6 +1,7 @@
-# 🛡️ GitLab Sentinel: 24/7 Multi-Agent Post-Code CI/CD & Autonomous Backend Healer
+# 🛡️ GitLab Sentinel: 24/7 Self-Healing CI/CD
 
 > **Built for the GitLab Hackathon: "Life After Code: The path to production at the speed of imagination"**  
+> **Devpost Project Name**: `GitLab Sentinel: 24/7 Self-Healing CI/CD` (41 chars)  
 > **Devpost Submission**: [Life After Code — GitLab Sentinel](https://devpost.com/submit-to/31503-life-after-code/manage/submissions/1227023/project-overview)  
 > **GitLab**: [https://gitlab.com/hrlpavan/gitlab-sentinel](https://gitlab.com/hrlpavan/gitlab-sentinel) | **GitHub**: [https://github.com/hrlpavan/gitlab-sentinel](https://github.com/hrlpavan/gitlab-sentinel)  
 > **Author**: Pavan Kumar Sadashiv ([@hrlpavan](https://gitlab.com/hrlpavan) | `pavankcet@gmail.com`)
