@@ -35,8 +35,8 @@ gitlab, gitlab-ci, gitlab-duo, python, google-cloud, gemini, ai-agents, devops, 
 ---
 
 ### 4. Links & Repositories
-* **GitLab Repository URL**: `https://gitlab.com/hrlpavan/hrl-x-gitlab-hackathon`
-* **GitHub Mirror URL**: `https://github.com/hrlpavan/hrl-x-gitlab-hackathon`
+* **GitLab Repository URL**: `https://gitlab.com/hrlpavan/gitlab-sentinel`
+* **GitHub Mirror URL**: `https://github.com/hrlpavan/gitlab-sentinel`
 * **GitLab Contributor Profile**: `https://gitlab.com/hrlpavan`
 * **Demo Video URL**: *(Paste your YouTube, Loom, or Vimeo video link here)*
 
